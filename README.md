@@ -8,13 +8,13 @@
 ![demo](docs/demo2.png)
 
 
-### Although the project is under working, you can collect data using these scripts and train a CNN model to play the game.
+Although the project is under working, you can collect data using these scripts and train a CNN model to play the game.
 
-### These scripts were build on Mac but hope they will work on Windows and Linux too.
+These scripts were build on Mac but hope they will work on Windows and Linux too.
 
-### I used OpenEmu to emulate the game on Mac, but, you can try it in you browser too here `http://www.nintendoemulator.com/nes/4099`.
+I used OpenEmu to emulate the game on Mac, but, you can try it in you browser too here `http://www.nintendoemulator.com/nes/4099`.
 
-### For testing the gameplay i did used the browser as OpenEmu didn't allowed keyboard inputs from the script for gameplay.
+For testing the gameplay i did used the browser as OpenEmu didn't allowed keyboard inputs from the script for gameplay.
 
 ### [grabScreen.py](grabScreen.py)
 
