@@ -2,6 +2,12 @@
 
 ## Exploring for how to use AI to play the Nintendo's(NES) classic game F1 race.
 
+![demo](docs/demo1.png)
+
+
+![demo](docs/demo2.png)
+
+
 Although the project is under working, you can collect data using these scripts and train a CNN model to play the game.
 
 These scripts were build on Mac but hope they will work on Windows and Linux too.
